@@ -1,6 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
+# permalink: /cv/
+permalink: https://drive.google.com/file/d/1okVnaXh10gMfZPv2ytv65kP0eW0gMzyJ/view?usp=sharing
 title: cv
 nav: true
 nav_order: 3
