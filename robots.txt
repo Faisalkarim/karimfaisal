@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://faisalkarim.github.io/sitemap.xml
+Sitemap: https://Faisalkarim.github.io/karimfaisal/sitemap.xml
