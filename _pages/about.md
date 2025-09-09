@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: RA <a href='https://qatar-uni-ml-group.netlify.app/'> @QU-MLG</a>. Khulna, Bangladesh. ,<a href="mailto:itsfaisalkarim@gmail.com?subject=Research%20Collaboration">Email Me</a>
+subtitle: RA <a href='https://qatar-uni-ml-group.netlify.app/'> @QU-MLG</a>| Khulna, Bangladesh | <a href="mailto:itsfaisalkarim@gmail.com?subject=Research%20Collaboration">Email</a>
 
 profile:
   align: left
