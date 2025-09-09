@@ -8,9 +8,9 @@
 "Vision":
   color: "#009f36"
 
-"IEEE"
-  url: https://ieeexplore.ieee.org/Xplore/home.jsp
-  color: "#ffb600"
-"Springer"
-  url: https://link.springer.com/
-  color: "#0066b8"
+# "IEEE"
+#   url: https://ieeexplore.ieee.org/Xplore/home.jsp
+#   color: "#ffb600"
+# "Springer"
+#   url: https://link.springer.com/
+#   color: "#0066b8"
