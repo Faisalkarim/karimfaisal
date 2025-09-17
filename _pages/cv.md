@@ -1,7 +1,7 @@
 ---
 layout: cv
 # permalink: /cv/
-permalink: https://drive.google.com/file/d/1okVnaXh10gMfZPv2ytv65kP0eW0gMzyJ/view?usp=sharing
+permalink: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://drive.usercontent.google.com/download?id=1aRK36j4IvFX7AjUQs119GCHh-tgS0REn&authuser=0&acrobatPromotionSource=gdrive_chrome-native_view
 title: cv
 nav: true
 nav_order: 2
