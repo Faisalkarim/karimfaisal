@@ -21,7 +21,7 @@ ninja.data = [{
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/karimfaisal/chrome-extension:/efaidnbmnnnibpcajpcglclefindmkaj/https:/drive.usercontent.google.com/download?id=1aRK36j4IvFX7AjUQs119GCHh-tgS0REn&authuser=0&acrobatPromotionSource=gdrive_chrome-native_view";
+            window.location.href = "/karimfaisal/https:/acrobat.adobe.com/id/urn:aaid:sc:AP:789e3faf-ca6f-456f-81f4-1949db21767e";
           },
         },{id: "post-a-post-with-plotly-js",
         
